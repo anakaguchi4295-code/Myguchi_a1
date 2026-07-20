@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "8cf625da58286eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6f8be2a48130d76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117d77ce307d1d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "b2c916b0c4f66ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
+            }
+          },
+          {
+            "id": "b4a3487b48cbdfa8",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://contacts.google.com/widget/hovercard/v/2?origin=https%3A%2F%2Fdocs.google.com&usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.ja.AX9XOoYj2BQ.O%2Fd%3D1%2Frs%3DAHpOoo_FPUVky6k_pijDlDM0KvKn4RbtgA%2Fm%3D__features__#id=I__HC_94253229&_gfid=I__HC_94253229&parent=https%3A%2F%2Fdocs.google.com&pfname=&rpctoken=14309092"
+              },
+              "icon": "lucide-file",
+              "title": "【外国株分析】決算時期 & 2026-2027年の行方 - Google スプレッドシート"
+            }
+          },
+          {
+            "id": "cd0a27e20f758b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日記カレンダー/2026-07-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-19"
+            }
+          },
+          {
+            "id": "092ed03a5725c112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-07-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-20"
+            }
+          },
+          {
+            "id": "541d72264e5afa18",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/new",
+                "title": "New repository",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "New repository"
+            }
+          },
+          {
+            "id": "1b3af0328ebf6a7e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/anakaguchi4295-code",
+                "title": "anakaguchi4295-code",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "anakaguchi4295-code"
+            }
+          },
+          {
+            "id": "90467419fb7b0462",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/",
+                "title": "GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub"
+            }
+          },
+          {
+            "id": "8cb9588802793b93",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/anakaguchi4295-code",
+                "title": "anakaguchi4295-code",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "anakaguchi4295-code"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22b53302bc28a78e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4355eaec1257d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc41f915262da092",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "7da922df062eb49b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "4b446a3f9f6dc741",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4c91e706682effe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "749656d48757636d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc63db21fb1f2c1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "米国株売買/外国株.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "外国株へのバックリンク"
+            }
+          },
+          {
+            "id": "d55e9f38ee83f85b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "米国株売買/外国株.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "外国株からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "2dc172a73bc54a7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "49913570131a2a52",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "94e0ec4cc4413e73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-07-18.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-07-18のアウトライン"
+            }
+          },
+          {
+            "id": "6c04a6a9d811c805",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "3abb391b51ad940d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 928.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
+      "smart-composer:Open smart composer": false,
+      "omnisearch:Omnisearch": false,
+      "remotely-save:Remotely Save": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "8cb9588802793b93",
+  "lastOpenFiles": [
+    "2026-07-20.md",
+    "日記カレンダー/2026-07-19.md",
+    "2026-07-19.md",
+    "HOME.md",
+    "CLAUDE.md",
+    "日記カレンダー/2026-07-18.md",
+    "無題のファイル.md",
+    "米国株売買/外国株.pdf",
+    "キャンパス１.canvas",
+    "HOME.md.tmp.6072.638c541035b0",
+    "日記カレンダー/2026-07-17.md",
+    "日記カレンダー/2026-06-19.md",
+    "2026-07-19.md.tmp.6072.c55df38676dc",
+    "2026-07-19.md.tmp.6072.0017ee7b890c"
+  ]
+}

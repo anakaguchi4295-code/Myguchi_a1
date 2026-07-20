@@ -1,0 +1,56 @@
+{
+  "id": "c776cd73-ccd1-457b-a7d5-9aca8cfab863",
+  "title": "drop",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "drop",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ndrop\n\n"
+        }
+      ],
+      "id": "b460802c-f9f4-4401-87c7-aaa3b05bfc1e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "2026-06-19.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1782199594142,
+  "updatedAt": 1782199594142,
+  "schemaVersion": 1
+}

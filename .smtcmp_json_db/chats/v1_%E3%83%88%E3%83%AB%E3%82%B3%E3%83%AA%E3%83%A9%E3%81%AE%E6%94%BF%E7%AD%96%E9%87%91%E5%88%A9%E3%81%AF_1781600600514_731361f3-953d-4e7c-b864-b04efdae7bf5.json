@@ -1,0 +1,103 @@
+{
+  "id": "731361f3-953d-4e7c-b864-b04efdae7bf5",
+  "title": "トルコリラの政策金利は",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "トルコリラの政策金利は",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nトルコリラの政策金利は\n\n"
+        }
+      ],
+      "id": "44738084-031d-4e27-9852-cea86f765da0",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "為替管理/トルコリラの動向/トルコリラの課題.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "トルコリラの政策金利",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nトルコリラの政策金利\n\n"
+        }
+      ],
+      "id": "1a6623a1-2026-4da0-92e6-b4a6fe4b68f1",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "為替管理/トルコリラの動向/トルコリラの課題.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1781597548219,
+  "updatedAt": 1781600600514,
+  "schemaVersion": 1
+}

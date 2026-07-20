@@ -1,0 +1,46 @@
+{
+  "id": "ab855ead-6a79-46e8-8c2e-4351650c19bf",
+  "title": "spcx",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nspcx\n\n"
+        }
+      ],
+      "id": "5e52b873-dadd-4013-8fe2-bf30680b3f52",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "2026-06-20.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1781947152383,
+  "updatedAt": 1781947388417,
+  "schemaVersion": 1
+}

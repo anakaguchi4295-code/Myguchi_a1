@@ -1,0 +1,20 @@
+# Obsidian
+.obsidian/plugins/*/data.json
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+
+# Claudian settings (contains sensitive data)
+.claudian/
+
+# Smart Composer (contains API keys)
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if any)
+node_modules/

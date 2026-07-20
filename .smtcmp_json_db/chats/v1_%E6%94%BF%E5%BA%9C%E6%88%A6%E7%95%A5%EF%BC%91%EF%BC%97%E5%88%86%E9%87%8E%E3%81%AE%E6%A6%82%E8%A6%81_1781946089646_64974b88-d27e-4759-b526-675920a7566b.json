@@ -1,0 +1,46 @@
+{
+  "id": "64974b88-d27e-4759-b526-675920a7566b",
+  "title": "政府戦略１７分野の概要",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n政府戦略１７分野の概要\n\n"
+        }
+      ],
+      "id": "64e6f32d-404b-4178-8361-0926a7f33f55",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "2026-06-20.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1781942519925,
+  "updatedAt": 1781946089646,
+  "schemaVersion": 1
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784433644741-6iczvpe37",
+  "providerId": "claude",
+  "title": "Explore boccia",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784433644747,
+  "updatedAt": 1784523993632,
+  "lastResponseAt": 1784523993632,
+  "sessionId": "2625420a-b9e7-485e-ba7c-32a3145d34af",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "2625420a-b9e7-485e-ba7c-32a3145d34af"
+  },
+  "currentNote": "日記カレンダー/2026-07-18.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 751,
+    "cacheReadInputTokens": 90053,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 90814,
+    "percentage": 45
+  }
+}

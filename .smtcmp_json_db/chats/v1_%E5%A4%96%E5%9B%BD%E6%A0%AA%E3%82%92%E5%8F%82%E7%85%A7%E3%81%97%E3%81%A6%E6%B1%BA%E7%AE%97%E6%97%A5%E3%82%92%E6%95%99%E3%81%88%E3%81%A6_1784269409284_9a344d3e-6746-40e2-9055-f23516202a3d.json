@@ -1,0 +1,56 @@
+{
+  "id": "9a344d3e-6746-40e2-9055-f23516202a3d",
+  "title": "外国株を参照して決算日を教えて",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "フジクラのして決算日を教えて",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nフジクラのして決算日を教えて\n\n"
+        }
+      ],
+      "id": "6fbbc326-1a0b-4646-9217-d7edc3be3f41",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "米国株売買/外国株.pdf"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1784269306777,
+  "updatedAt": 1784269409284,
+  "schemaVersion": 1
+}

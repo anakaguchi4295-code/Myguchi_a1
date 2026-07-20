@@ -1,0 +1,56 @@
+{
+  "id": "799da96f-8b6a-4477-8386-eadae5abd0cf",
+  "title": "obsidianの使い方",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "obsidianの使い方",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nobsidianの使い方\n\n"
+        }
+      ],
+      "id": "53760a79-3e2d-403c-b4e8-66f007e53281",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "2026-06-19.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1782001182128,
+  "updatedAt": 1782001182128,
+  "schemaVersion": 1
+}

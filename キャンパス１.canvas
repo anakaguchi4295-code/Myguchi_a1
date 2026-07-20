@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"52b253f4ce18723e","x":-414,"y":-345,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ce017d7b2d46f76b","type":"text","text":"手書き\n","x":-414,"y":-345,"width":250,"height":60},
+		{"id":"e2f7ad3985ab0007","x":-101,"y":-193,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"410020532668a3f0","fromNode":"ce017d7b2d46f76b","fromSide":"bottom","toNode":"e2f7ad3985ab0007","toSide":"top"}
+	]
+}
