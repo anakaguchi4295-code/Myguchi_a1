@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect x="0" y="0" width="960" height="560" fill="#fcfcfb"/>
+<text x="32" y="40" font-size="21" font-weight="600" fill="#0b0b0b">米CPI（消費者物価指数）前年比 推移</text>
+<text x="32" y="64" font-size="13" fill="#52514e">2025年12月〜2026年8月・前年同月比（％）　2月分は未確認のため欠落　／　2%ライン＝FRB物価目標</text>
+<rect x="32" y="79" width="14" height="14" rx="3" fill="#2a78d6"/>
+<text x="52" y="90" font-size="12" fill="#52514e">総合CPI</text>
+<rect x="121.32" y="79" width="14" height="14" rx="3" fill="#008300"/>
+<text x="141.32" y="90" font-size="12" fill="#52514e">コアCPI</text>
+<text x="210.64" y="90" font-size="12" fill="#898781">コアCPIは4月分から記録開始</text>
+<line x1="74" y1="430" x2="920" y2="430" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="434" font-size="11" font-weight="400" fill="#898781" text-anchor="end">0%</text>
+<line x1="74" y1="365.6" x2="920" y2="365.6" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="369.6" font-size="11" font-weight="400" fill="#898781" text-anchor="end">1%</text>
+<line x1="74" y1="301.2" x2="920" y2="301.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="305.2" font-size="11" font-weight="600" fill="#52514e" text-anchor="end">2%</text>
+<line x1="74" y1="236.8" x2="920" y2="236.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="240.8" font-size="11" font-weight="400" fill="#898781" text-anchor="end">3%</text>
+<line x1="74" y1="172.39999999999998" x2="920" y2="172.39999999999998" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="176.39999999999998" font-size="11" font-weight="400" fill="#898781" text-anchor="end">4%</text>
+<line x1="74" y1="108" x2="920" y2="108" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="112" font-size="11" font-weight="400" fill="#898781" text-anchor="end">5%</text>
+<line x1="74" y1="430" x2="920" y2="430" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M 114.875 430 L 114.875 260.12 Q 114.875 256.12 118.875 256.12 L 134.875 256.12 Q 138.875 256.12 138.875 260.12 L 138.875 430 Z" fill="#2a78d6"/>
+<text x="126.875" y="248.12" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.7%</text>
+<text x="126.875" y="452" font-size="12" fill="#52514e" text-anchor="middle">25/12</text>
+<path d="M 220.625 430 L 220.625 279.44 Q 220.625 275.44 224.625 275.44 L 240.625 275.44 Q 244.625 275.44 244.625 279.44 L 244.625 430 Z" fill="#2a78d6"/>
+<text x="232.625" y="267.44" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.4%</text>
+<text x="232.625" y="452" font-size="12" fill="#52514e" text-anchor="middle">1月</text>
+<path d="M 326.375 430 L 326.375 221.48000000000002 Q 326.375 217.48000000000002 330.375 217.48000000000002 L 346.375 217.48000000000002 Q 350.375 217.48000000000002 350.375 221.48000000000002 L 350.375 430 Z" fill="#2a78d6"/>
+<text x="338.375" y="209.48000000000002" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.3%</text>
+<text x="338.375" y="452" font-size="12" fill="#52514e" text-anchor="middle">3月</text>
+<path d="M 419.125 430 L 419.125 189.28 Q 419.125 185.28 423.125 185.28 L 439.125 185.28 Q 443.125 185.28 443.125 189.28 L 443.125 430 Z" fill="#2a78d6"/>
+<text x="431.125" y="177.28" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.8%</text>
+<path d="M 445.125 430 L 445.125 253.68 Q 445.125 249.68 449.125 249.68 L 465.125 249.68 Q 469.125 249.68 469.125 253.68 L 469.125 430 Z" fill="#008300"/>
+<text x="457.125" y="241.68" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.8%</text>
+<text x="444.125" y="452" font-size="12" fill="#52514e" text-anchor="middle">4月</text>
+<path d="M 524.875 430 L 524.875 163.51999999999998 Q 524.875 159.51999999999998 528.875 159.51999999999998 L 544.875 159.51999999999998 Q 548.875 159.51999999999998 548.875 163.51999999999998 L 548.875 430 Z" fill="#2a78d6"/>
+<text x="536.875" y="151.51999999999998" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">4.2%</text>
+<path d="M 550.875 430 L 550.875 247.24 Q 550.875 243.24 554.875 243.24 L 570.875 243.24 Q 574.875 243.24 574.875 247.24 L 574.875 430 Z" fill="#008300"/>
+<text x="562.875" y="235.24" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.9%</text>
+<text x="549.875" y="452" font-size="12" fill="#52514e" text-anchor="middle">5月</text>
+<path d="M 630.625 430 L 630.625 208.60000000000002 Q 630.625 204.60000000000002 634.625 204.60000000000002 L 650.625 204.60000000000002 Q 654.625 204.60000000000002 654.625 208.60000000000002 L 654.625 430 Z" fill="#2a78d6"/>
+<text x="642.625" y="196.60000000000002" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.5%</text>
+<path d="M 656.625 430 L 656.625 266.56 Q 656.625 262.56 660.625 262.56 L 676.625 262.56 Q 680.625 262.56 680.625 266.56 L 680.625 430 Z" fill="#008300"/>
+<text x="668.625" y="254.56" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.6%</text>
+<text x="655.625" y="452" font-size="12" fill="#52514e" text-anchor="middle">6月</text>
+<path d="M 736.375 430 L 736.375 215.04000000000002 Q 736.375 211.04000000000002 740.375 211.04000000000002 L 756.375 211.04000000000002 Q 760.375 211.04000000000002 760.375 215.04000000000002 L 760.375 430 Z" fill="#2a78d6"/>
+<text x="748.375" y="203.04000000000002" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.4%</text>
+<path d="M 762.375 430 L 762.375 273 Q 762.375 269 766.375 269 L 782.375 269 Q 786.375 269 786.375 273 L 786.375 430 Z" fill="#008300"/>
+<text x="774.375" y="261" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.5%</text>
+<text x="761.375" y="452" font-size="12" fill="#52514e" text-anchor="middle">7月</text>
+<path d="M 842.125 430 L 842.125 215.04000000000002 Q 842.125 211.04000000000002 846.125 211.04000000000002 L 862.125 211.04000000000002 Q 866.125 211.04000000000002 866.125 215.04000000000002 L 866.125 430 Z" fill="#2a78d6"/>
+<text x="854.125" y="203.04000000000002" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.4%</text>
+<path d="M 868.125 430 L 868.125 279.44 Q 868.125 275.44 872.125 275.44 L 888.125 275.44 Q 892.125 275.44 892.125 279.44 L 892.125 430 Z" fill="#008300"/>
+<text x="880.125" y="267.44" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">2.4%</text>
+<text x="867.125" y="452" font-size="12" fill="#52514e" text-anchor="middle">8月</text>
+<text x="32" y="528" font-size="10.5" fill="#898781">※ 2〜5月は中東情勢（イラン戦争）に伴うエネルギー価格急騰で総合CPIが2.4%→4.2%へ急上昇。6月の停戦後に鈍化基調へ。</text>
+<text x="32" y="546" font-size="10.5" fill="#898781">8月：総合+3.4%（横ばい）／コア+2.4%（前月比は+0.3%と予想上振れ）。9月FOMC利上げ織り込みが71.5%→85.6%に急伸、実際に利上げ決定。</text>
+</svg>
