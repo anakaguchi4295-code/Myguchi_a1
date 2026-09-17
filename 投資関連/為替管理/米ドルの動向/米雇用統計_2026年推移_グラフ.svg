@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect x="0" y="0" width="960" height="540" fill="#fcfcfb"/>
+<text x="32" y="40" font-size="21" font-weight="600" fill="#0b0b0b">米雇用統計 非農業部門雇用者数（前月比）2026年</text>
+<text x="32" y="64" font-size="13" fill="#52514e">1月〜8月・最新の改定値ベース（単位：万人）　青＝増加　赤＝減少</text>
+<line x1="74" y1="408.75" x2="920" y2="408.75" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="412.75" font-size="11" fill="#898781" text-anchor="end">-10</text>
+<line x1="74" y1="355.625" x2="920" y2="355.625" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="359.625" font-size="11" fill="#898781" text-anchor="end">-5</text>
+<line x1="74" y1="249.375" x2="920" y2="249.375" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="253.375" font-size="11" fill="#898781" text-anchor="end">+5</text>
+<line x1="74" y1="196.25" x2="920" y2="196.25" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="200.25" font-size="11" fill="#898781" text-anchor="end">+10</text>
+<line x1="74" y1="143.125" x2="920" y2="143.125" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="147.125" font-size="11" fill="#898781" text-anchor="end">+15</text>
+<line x1="74" y1="90" x2="920" y2="90" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="94" font-size="11" fill="#898781" text-anchor="end">+20</text>
+<line x1="74" y1="302.5" x2="920" y2="302.5" stroke="#383835" stroke-width="1.5"/>
+<text x="64" y="306.5" font-size="11" font-weight="600" fill="#52514e" text-anchor="end">0</text>
+<path d="M 114.875 302.5 L 114.875 168.375 Q 114.875 164.375 118.875 164.375 L 134.875 164.375 Q 138.875 164.375 138.875 168.375 L 138.875 302.5 Z" fill="#2a78d6"/>
+<text x="126.875" y="156.375" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">+13.0万</text>
+<text x="126.875" y="452" font-size="12" fill="#52514e" text-anchor="middle">1月</text>
+<path d="M 220.625 302.5 L 220.625 396.25 Q 220.625 400.25 224.625 400.25 L 240.625 400.25 Q 244.625 400.25 244.625 396.25 L 244.625 302.5 Z" fill="#e34948"/>
+<text x="232.625" y="416.25" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">-9.2万</text>
+<text x="232.625" y="452" font-size="12" fill="#52514e" text-anchor="middle">2月</text>
+<path d="M 326.375 302.5 L 326.375 117.375 Q 326.375 113.375 330.375 113.375 L 346.375 113.375 Q 350.375 113.375 350.375 117.375 L 350.375 302.5 Z" fill="#2a78d6"/>
+<text x="338.375" y="105.375" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">+17.8万</text>
+<text x="338.375" y="452" font-size="12" fill="#52514e" text-anchor="middle">3月</text>
+<path d="M 432.125 302.5 L 432.125 149.25 Q 432.125 145.25 436.125 145.25 L 452.125 145.25 Q 456.125 145.25 456.125 149.25 L 456.125 302.5 Z" fill="#2a78d6"/>
+<text x="444.125" y="137.25" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">+14.8万</text>
+<text x="444.125" y="452" font-size="12" fill="#52514e" text-anchor="middle">4月</text>
+<path d="M 537.875 302.5 L 537.875 239.5625 Q 537.875 235.5625 541.875 235.5625 L 557.875 235.5625 Q 561.875 235.5625 561.875 239.5625 L 561.875 302.5 Z" fill="#2a78d6"/>
+<text x="549.875" y="227.5625" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">+6.3万</text>
+<text x="549.875" y="452" font-size="12" fill="#52514e" text-anchor="middle">5月</text>
+<path d="M 643.625 302.5 L 643.625 273.5625 Q 643.625 269.5625 647.625 269.5625 L 663.625 269.5625 Q 667.625 269.5625 667.625 273.5625 L 667.625 302.5 Z" fill="#2a78d6"/>
+<text x="655.625" y="261.5625" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">+3.1万</text>
+<text x="655.625" y="452" font-size="12" fill="#52514e" text-anchor="middle">6月</text>
+<path d="M 749.375 302.5 L 749.375 284.1875 Q 749.375 280.1875 753.375 280.1875 L 769.375 280.1875 Q 773.375 280.1875 773.375 284.1875 L 773.375 302.5 Z" fill="#2a78d6"/>
+<text x="761.375" y="272.1875" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">+2.1万</text>
+<text x="761.375" y="452" font-size="12" fill="#52514e" text-anchor="middle">7月</text>
+<path d="M 855.125 302.5 L 855.125 134.375 Q 855.125 130.375 859.125 130.375 L 875.125 130.375 Q 879.125 130.375 879.125 134.375 L 879.125 302.5 Z" fill="#2a78d6"/>
+<text x="867.125" y="122.375" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">+16.2万</text>
+<text x="867.125" y="452" font-size="12" fill="#52514e" text-anchor="middle">8月</text>
+<text x="32" y="490" font-size="10.5" fill="#898781">※ 発表後に過去分が修正される傾向あり。上表は2026年9月17日時点で判明している最新の改定値。</text>
+<text x="32" y="508" font-size="10.5" fill="#898781">8月：+16.2万人（予想+5.6〜5.8万人を大幅上回り、過去5ヶ月で最大の伸び）／7月：▲2.3万人→+2.1万人に符号反転の上方修正</text>
+<text x="32" y="526" font-size="10.5" fill="#898781">出典：米労働省（BLS）雇用統計、各種報道（詳細は 投資関連/為替管理/米ドルの動向/米雇用統計_2026年推移.md を参照）</text>
+</svg>
