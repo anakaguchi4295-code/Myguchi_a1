@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect x="0" y="0" width="960" height="600" fill="#fcfcfb"/>
+<text x="32" y="40" font-size="21" font-weight="600" fill="#0b0b0b">日米政策金利 2026年</text>
+<text x="32" y="64" font-size="13" fill="#52514e">日銀 金融政策決定会合 vs FRB FOMC — 会合ごとの政策金利</text>
+<rect x="32" y="79" width="14" height="14" rx="3" fill="#2a78d6"/>
+<text x="52" y="90" font-size="12" fill="#52514e">日本（日銀）</text>
+<rect x="148.56" y="79" width="14" height="14" rx="3" fill="#008300"/>
+<text x="168.56" y="90" font-size="12" fill="#52514e">米国（FRB）</text>
+<rect x="261.4" y="79" width="14" height="14" rx="3" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="3 2"/>
+<text x="281.4" y="90" font-size="12" fill="#898781">破線＝未定／審議中</text>
+<line x1="70" y1="470" x2="928" y2="470" stroke="#e1e0d9" stroke-width="1"/>
+<text x="60" y="474" font-size="11" fill="#898781" text-anchor="end">0%</text>
+<line x1="70" y1="391.33333333333337" x2="928" y2="391.33333333333337" stroke="#e1e0d9" stroke-width="1"/>
+<text x="60" y="395.33333333333337" font-size="11" fill="#898781" text-anchor="end">1%</text>
+<line x1="70" y1="312.6666666666667" x2="928" y2="312.6666666666667" stroke="#e1e0d9" stroke-width="1"/>
+<text x="60" y="316.6666666666667" font-size="11" fill="#898781" text-anchor="end">2%</text>
+<line x1="70" y1="234" x2="928" y2="234" stroke="#e1e0d9" stroke-width="1"/>
+<text x="60" y="238" font-size="11" fill="#898781" text-anchor="end">3%</text>
+<line x1="70" y1="155.33333333333337" x2="928" y2="155.33333333333337" stroke="#e1e0d9" stroke-width="1"/>
+<text x="60" y="159.33333333333337" font-size="11" fill="#898781" text-anchor="end">4%</text>
+<line x1="70" y1="470" x2="928" y2="470" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M 98.625 470 L 98.625 415 Q 98.625 411 102.625 411 L 118.625 411 Q 122.625 411 122.625 415 L 122.625 470 Z" fill="#2a78d6"/>
+<text x="110.625" y="403" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">0.75%</text>
+<path d="M 124.625 470 L 124.625 179 Q 124.625 175 128.625 175 L 144.625 175 Q 148.625 175 148.625 179 L 148.625 470 Z" fill="#008300"/>
+<text x="136.625" y="167" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.75%</text>
+<text x="123.625" y="492" font-size="12" fill="#52514e" text-anchor="middle">1月</text>
+<path d="M 205.875 470 L 205.875 415 Q 205.875 411 209.875 411 L 225.875 411 Q 229.875 411 229.875 415 L 229.875 470 Z" fill="#2a78d6"/>
+<text x="217.875" y="403" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">0.75%</text>
+<path d="M 231.875 470 L 231.875 179 Q 231.875 175 235.875 175 L 251.875 175 Q 255.875 175 255.875 179 L 255.875 470 Z" fill="#008300"/>
+<text x="243.875" y="167" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.75%</text>
+<text x="230.875" y="492" font-size="12" fill="#52514e" text-anchor="middle">3月</text>
+<path d="M 313.125 470 L 313.125 415 Q 313.125 411 317.125 411 L 333.125 411 Q 337.125 411 337.125 415 L 337.125 470 Z" fill="#2a78d6"/>
+<text x="325.125" y="403" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">0.75%</text>
+<path d="M 339.125 470 L 339.125 179 Q 339.125 175 343.125 175 L 359.125 175 Q 363.125 175 363.125 179 L 363.125 470 Z" fill="#008300"/>
+<text x="351.125" y="167" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.75%</text>
+<text x="338.125" y="492" font-size="12" fill="#52514e" text-anchor="middle">4月</text>
+<path d="M 420.375 470 L 420.375 395.33333333333337 Q 420.375 391.33333333333337 424.375 391.33333333333337 L 440.375 391.33333333333337 Q 444.375 391.33333333333337 444.375 395.33333333333337 L 444.375 470 Z" fill="#2a78d6"/>
+<text x="432.375" y="383.33333333333337" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">1.00%</text>
+<path d="M 446.375 470 L 446.375 179 Q 446.375 175 450.375 175 L 466.375 175 Q 470.375 175 470.375 179 L 470.375 470 Z" fill="#008300"/>
+<text x="458.375" y="167" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.75%</text>
+<text x="445.375" y="492" font-size="12" fill="#52514e" text-anchor="middle">6月</text>
+<path d="M 527.625 470 L 527.625 395.33333333333337 Q 527.625 391.33333333333337 531.625 391.33333333333337 L 547.625 391.33333333333337 Q 551.625 391.33333333333337 551.625 395.33333333333337 L 551.625 470 Z" fill="#2a78d6"/>
+<text x="539.625" y="383.33333333333337" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">1.00%</text>
+<path d="M 553.625 470 L 553.625 179 Q 553.625 175 557.625 175 L 573.625 175 Q 577.625 175 577.625 179 L 577.625 470 Z" fill="#008300"/>
+<text x="565.625" y="167" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">3.75%</text>
+<text x="552.625" y="492" font-size="12" fill="#52514e" text-anchor="middle">7月</text>
+<path d="M 634.875 470 L 634.875 395.33333333333337 Q 634.875 391.33333333333337 638.875 391.33333333333337 L 654.875 391.33333333333337 Q 658.875 391.33333333333337 658.875 395.33333333333337 L 658.875 470 Z" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M 660.875 470 L 660.875 159.33333333333337 Q 660.875 155.33333333333337 664.875 155.33333333333337 L 680.875 155.33333333333337 Q 684.875 155.33333333333337 684.875 159.33333333333337 L 684.875 470 Z" fill="#008300"/>
+<text x="672.875" y="147.33333333333337" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">4.00%</text>
+<text x="659.875" y="492" font-size="12" fill="#52514e" text-anchor="middle">9月</text>
+<path d="M 742.125 470 L 742.125 395.33333333333337 Q 742.125 391.33333333333337 746.125 391.33333333333337 L 762.125 391.33333333333337 Q 766.125 391.33333333333337 766.125 395.33333333333337 L 766.125 470 Z" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M 768.125 470 L 768.125 159.33333333333337 Q 768.125 155.33333333333337 772.125 155.33333333333337 L 788.125 155.33333333333337 Q 792.125 155.33333333333337 792.125 159.33333333333337 L 792.125 470 Z" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="767.125" y="492" font-size="12" fill="#52514e" text-anchor="middle">10月</text>
+<path d="M 849.375 470 L 849.375 395.33333333333337 Q 849.375 391.33333333333337 853.375 391.33333333333337 L 869.375 391.33333333333337 Q 873.375 391.33333333333337 873.375 395.33333333333337 L 873.375 470 Z" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<path d="M 875.375 470 L 875.375 159.33333333333337 Q 875.375 155.33333333333337 879.375 155.33333333333337 L 895.375 155.33333333333337 Q 899.375 155.33333333333337 899.375 159.33333333333337 L 899.375 470 Z" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="874.375" y="492" font-size="12" fill="#52514e" text-anchor="middle">12月</text>
+<text x="32" y="566" font-size="10.5" fill="#898781">※ 米国は誘導目標レンジの上限値を表示（例：3.75〜4.00%→4.00%）。破線＝会合未開催・結果未確定（直近確定水準の位置に表示）。</text>
+<text x="32" y="584" font-size="10.5" fill="#898781">9月：日銀は9/18公表待ち、FRBは9/17（日本時間）0.25%利上げを決定。　出典：日本銀行／Federal Reserve（2026年）</text>
+</svg>
