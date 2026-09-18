@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect x="0" y="0" width="960" height="540" fill="#fcfcfb"/>
+<text x="32" y="40" font-size="21" font-weight="600" fill="#0b0b0b">トルコ中央銀行（CBRT）政策金利 2026年推移</text>
+<text x="32" y="64" font-size="13" fill="#52514e">1週間物レポ金利・会合ごと（単位：％）　破線＝会合未開催（10/22・12/10）</text>
+<text x="32" y="86" font-size="12" fill="#898781">25/12＝2025年末（参考水準）</text>
+<line x1="74" y1="420" x2="920" y2="420" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="424" font-size="11" fill="#898781" text-anchor="end">0%</text>
+<line x1="74" y1="348.8888888888889" x2="920" y2="348.8888888888889" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="352.8888888888889" font-size="11" fill="#898781" text-anchor="end">10%</text>
+<line x1="74" y1="277.77777777777777" x2="920" y2="277.77777777777777" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="281.77777777777777" font-size="11" fill="#898781" text-anchor="end">20%</text>
+<line x1="74" y1="206.66666666666669" x2="920" y2="206.66666666666669" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="210.66666666666669" font-size="11" fill="#898781" text-anchor="end">30%</text>
+<line x1="74" y1="135.55555555555554" x2="920" y2="135.55555555555554" stroke="#e1e0d9" stroke-width="1"/>
+<text x="64" y="139.55555555555554" font-size="11" fill="#898781" text-anchor="end">40%</text>
+<line x1="74" y1="420" x2="920" y2="420" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M 107 420 L 107 153.77777777777777 Q 107 149.77777777777777 111 149.77777777777777 L 131 149.77777777777777 Q 135 149.77777777777777 135 153.77777777777777 L 135 420 Z" fill="#c3c2b7"/>
+<text x="121" y="141.77777777777777" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">38.00%</text>
+<text x="121" y="442" font-size="12" fill="#52514e" text-anchor="middle">25/12</text>
+<path d="M 201 420 L 201 160.8888888888889 Q 201 156.8888888888889 205 156.8888888888889 L 225 156.8888888888889 Q 229 156.8888888888889 229 160.8888888888889 L 229 420 Z" fill="#2a78d6"/>
+<text x="215" y="148.8888888888889" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">37.00%</text>
+<text x="215" y="442" font-size="12" fill="#52514e" text-anchor="middle">1/22</text>
+<path d="M 295 420 L 295 160.8888888888889 Q 295 156.8888888888889 299 156.8888888888889 L 319 156.8888888888889 Q 323 156.8888888888889 323 160.8888888888889 L 323 420 Z" fill="#2a78d6"/>
+<text x="309" y="148.8888888888889" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">37.00%</text>
+<text x="309" y="442" font-size="12" fill="#52514e" text-anchor="middle">3/12</text>
+<path d="M 389 420 L 389 160.8888888888889 Q 389 156.8888888888889 393 156.8888888888889 L 413 156.8888888888889 Q 417 156.8888888888889 417 160.8888888888889 L 417 420 Z" fill="#2a78d6"/>
+<text x="403" y="148.8888888888889" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">37.00%</text>
+<text x="403" y="442" font-size="12" fill="#52514e" text-anchor="middle">4/22</text>
+<path d="M 483 420 L 483 160.8888888888889 Q 483 156.8888888888889 487 156.8888888888889 L 507 156.8888888888889 Q 511 156.8888888888889 511 160.8888888888889 L 511 420 Z" fill="#2a78d6"/>
+<text x="497" y="148.8888888888889" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">37.00%</text>
+<text x="497" y="442" font-size="12" fill="#52514e" text-anchor="middle">6/11</text>
+<path d="M 577 420 L 577 160.8888888888889 Q 577 156.8888888888889 581 156.8888888888889 L 601 156.8888888888889 Q 605 156.8888888888889 605 160.8888888888889 L 605 420 Z" fill="#2a78d6"/>
+<text x="591" y="148.8888888888889" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">37.00%</text>
+<text x="591" y="442" font-size="12" fill="#52514e" text-anchor="middle">7/23</text>
+<path d="M 671 420 L 671 160.8888888888889 Q 671 156.8888888888889 675 156.8888888888889 L 695 156.8888888888889 Q 699 156.8888888888889 699 160.8888888888889 L 699 420 Z" fill="#2a78d6"/>
+<text x="685" y="148.8888888888889" font-size="12" font-weight="600" fill="#0b0b0b" text-anchor="middle">37.00%</text>
+<text x="685" y="442" font-size="12" fill="#52514e" text-anchor="middle">9/10</text>
+<path d="M 765 420 L 765 160.8888888888889 Q 765 156.8888888888889 769 156.8888888888889 L 789 156.8888888888889 Q 793 156.8888888888889 793 160.8888888888889 L 793 420 Z" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="779" y="442" font-size="12" fill="#52514e" text-anchor="middle">10/22</text>
+<path d="M 859 420 L 859 160.8888888888889 Q 859 156.8888888888889 863 156.8888888888889 L 883 156.8888888888889 Q 887 156.8888888888889 887 160.8888888888889 L 887 420 Z" fill="none" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="873" y="442" font-size="12" fill="#52514e" text-anchor="middle">12/10</text>
+<text x="32" y="508" font-size="10.5" fill="#898781">※ 1/22に38.00%→37.00%へ大幅利下げを実施後、9/10発表時点まで5会合連続（3/12・4/22・6/11・7/23・9/10）で据え置き。</text>
+<text x="32" y="526" font-size="10.5" fill="#898781">※ 3〜8月は地政学リスク（イラン戦争）を受け、資金供給を翌日物貸出金利40%側へ事実上シフトする“ステルス利上げ”を実施（政策金利自体は37%）。8/23-24に正常化。</text>
+</svg>
