@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"group-design","type":"group","label":"🧩 設計（ファブレス／IP）— 自社工場を持たない","x":-720,"y":-260,"width":940,"height":200,"color":"5"},
+		{"id":"group-mfg","type":"group","label":"🏭 製造（IDM／ファウンドリ）","x":-570,"y":20,"width":640,"height":200,"color":"1"},
+		{"id":"group-materials","type":"group","label":"🧪 素材（川上サプライヤー）","x":-420,"y":320,"width":340,"height":200,"color":"4"},
+		{"id":"title","type":"text","x":-720,"y":-460,"width":940,"height":160,"text":"# 半導体バリューチェーンマップ（保有6銘柄）\n設計 → 製造 → 素材 の流れと各社の関係性\n（2026-09-13作成）\n\n詳細表はこちら → [[投資関連/業界研究/半導体バリューチェーンマップ_2026-09-13.md|全体像・構造まとめ]]"},
+		{"id":"node-arm","type":"file","file":"投資関連/米国株売買/銘柄メモ/ARM.md","x":-680,"y":-220,"width":260,"height":120},
+		{"id":"node-avgo","type":"file","file":"投資関連/米国株売買/銘柄メモ/AVGO.md","x":-380,"y":-220,"width":260,"height":120},
+		{"id":"node-nvda","type":"file","file":"投資関連/米国株売買/銘柄メモ/NVDA.md","x":-80,"y":-220,"width":260,"height":120},
+		{"id":"node-intc","type":"file","file":"投資関連/米国株売買/銘柄メモ/INTC.md","x":-530,"y":60,"width":260,"height":120},
+		{"id":"node-tsm","type":"file","file":"投資関連/米国株売買/銘柄メモ/TSM.md","x":-230,"y":60,"width":260,"height":120},
+		{"id":"node-shinetsu","type":"file","file":"投資関連/日本株売買/銘柄メモ/信越化学.md","x":-380,"y":360,"width":260,"height":120}
+	],
+	"edges":[
+		{"id":"e-arm-tsm","fromNode":"node-arm","fromSide":"bottom","toNode":"node-tsm","toSide":"top","color":"5","label":"製造委託"},
+		{"id":"e-avgo-tsm","fromNode":"node-avgo","fromSide":"bottom","toNode":"node-tsm","toSide":"top","color":"5","label":"製造委託（ASIC）"},
+		{"id":"e-nvda-tsm","fromNode":"node-nvda","fromSide":"bottom","toNode":"node-tsm","toSide":"top","color":"5","label":"製造委託（GPU）"},
+		{"id":"e-nvda-arm","fromNode":"node-nvda","fromSide":"left","toNode":"node-arm","toSide":"right","color":"6","label":"Grace CPUにARM採用"},
+		{"id":"e-intc-tsm","fromNode":"node-intc","fromSide":"right","toNode":"node-tsm","toSide":"left","fromEnd":"none","toEnd":"none","color":"1","label":"ファウンドリで競合（IDM vs 純ファウンドリ）"},
+		{"id":"e-tsm-shinetsu","fromNode":"node-tsm","fromSide":"bottom","toNode":"node-shinetsu","toSide":"top","color":"4","label":"ウェハー・素材調達"},
+		{"id":"e-intc-shinetsu","fromNode":"node-intc","fromSide":"bottom","toNode":"node-shinetsu","toSide":"top","color":"4","label":"ウェハー・素材調達"}
+	]
+}

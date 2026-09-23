@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>横浜 蕎麦屋10選（西区・中区・保土ヶ谷区・神奈川区）</name>
+  <description>西区・中区・保土ヶ谷区・神奈川区限定のおすすめ蕎麦屋10選。Google My Maps (mymaps.google.com) でインポートして使用。</description>
+
+  <Placemark>
+    <name>角平（かどへい）</name>
+    <description>西区・平沼橋／昭和25年創業、名物「つけ天」／045-321-4341／横浜市西区平沼1-36-2</description>
+    <Point><coordinates>139.6191,35.4540,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>自然や 横浜西口店</name>
+    <description>西区・横浜駅西口／石臼挽き蕎麦を鴨出汁で／045-311-7718／横浜市西区北幸1-1-8 横浜東洋ビルB1F</description>
+    <Point><coordinates>139.6198,35.4649,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>平沼 田中屋</name>
+    <description>西区・平沼／横浜駅から徒歩10分の住宅街の一軒／横浜市西区平沼1-5-21 田中屋ビル</description>
+    <Point><coordinates>139.6215,35.4595,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>利久庵</name>
+    <description>中区・関内／評価4.05／1947年創業、関内駅前の老舗／横浜市中区真砂町2-17 利久ビル／11:00〜20:30(日・祝休)</description>
+    <Point><coordinates>139.6385,35.4453,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>手打ち蕎麦切り 慧味(さとみ)</name>
+    <description>中区・本牧／評価4.4／隠れ家的な一軒、利き酒(1杯500円均一)／090-9298-3103</description>
+    <Point><coordinates>139.6626069,35.4293847,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>手打蕎麦切り 天空(そら)</name>
+    <description>中区・関内／評価4.2(170件)／国産3種の蕎麦粉をブレンド、十割系、鴨料理のコース／080-7605-1717</description>
+    <Point><coordinates>139.6342162,35.4434811,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>伊豆庵</name>
+    <description>保土ヶ谷区・天王町／評価3.31／開業40年、そば粉8割の本格手打ち二八そば／045-331-3050／横浜市保土ヶ谷区天王町2-36-8</description>
+    <Point><coordinates>139.5928,35.4531,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>宿場そば 桑名屋</name>
+    <description>保土ヶ谷区・保土ヶ谷駅前／明治19年創業、東海道保土ヶ谷宿の風情を再現／045-331-0233</description>
+    <Point><coordinates>139.5867,35.4459,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>そばうどん 加とう 白楽店</name>
+    <description>神奈川区・白楽／評価3.39／鴨せいろが名物、蕎麦320円〜／045-717-9424／横浜市神奈川区白楽125</description>
+    <Point><coordinates>139.6290,35.4754,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>蕎麦源</name>
+    <description>神奈川区・反町／手打ち蕎麦店／045-313-1512／横浜市神奈川区反町2-13-2</description>
+    <Point><coordinates>139.6240,35.4700,0</coordinates></Point>
+  </Placemark>
+
+</Document>
+</kml>
